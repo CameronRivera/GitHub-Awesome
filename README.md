@@ -21,3 +21,4 @@
 1. Exit with :wq
 1. esc - command mode
 1. i - insert mode
+
